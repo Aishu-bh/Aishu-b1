@@ -1,2 +1,3 @@
 # Aishu-b1
-AI travelling agent
+Smart pesticide spraying bot system.
+
